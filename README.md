@@ -15,7 +15,7 @@ in order to restart it.
 All I needed to do was create a python GUI interface that connected those above commands 
 to a button touch event. I quickly repurposed some Stack code from a Tkinter application
 for a basic Hello World program in Python and this was the result. Since I use a Linux 
-desktop based on the X11 display manager, Tkinter windows look ugly. No real way around that.
+desktop based on the X11 display manager, Tkinter windows look ugly. No way around that.
 So I decided to find an alternative. 
 
 ![Alt text](https://github.com/adam-23/tiny_power/blob/master/tk_screenshot.png)
