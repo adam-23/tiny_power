@@ -1,6 +1,8 @@
 """A small power application built using Tk."""
 """Not preferred because it's ugly."""
 
+#!/usr/bin/python3
+
 import tkinter as tk
 # from subprocess import call
 import os
