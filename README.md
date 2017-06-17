@@ -18,7 +18,7 @@ for a basic Hello World program in Python and this was the result. Since I use a
 desktop based on the X11 display manager, Tkinter windows look ugly. No real way around that.
 So I decided to find an alternative. 
 
-![Alt text](https://github.com/adam-23/tiny_power/blob/master/qt_screenshot.png)
+![Alt text](https://github.com/adam-23/tiny_power/blob/master/tk_screenshot.png)
 
 My brother recommended the Qt interface. It seemed like a decent GUI. There was a graphical
 app for it caled Qt Creator that I used to get a basic start. Only problem was when I looked
@@ -32,7 +32,7 @@ Once all that was completed, I was able to map the executable C++ file to run wh
 power key is pressed. After a bit of resizing and unit testing, it worked! And it 
 looked much better too.
 
-![Alt text](https://github.com/adam-23/tiny_power/blob/master/tk_screenshot.png)
+![Alt text](https://github.com/adam-23/tiny_power/blob/master/qt_screenshot.png)
 
 Feel free to use this if you need. The python code was created in Python 3 with 
 Tkinter, and the C++ using Qt Creator. I've included the basic files here. To use the 
